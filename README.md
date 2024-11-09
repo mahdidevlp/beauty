@@ -42,13 +42,13 @@ To get a copy of this project up and running on your local machine, follow these
    git clone https://github.com/yourusername/beauty-website.git
    ```
 2. **Navigate to the project directory:**:
-  ```bash
-  cd beauty-website
-  ```
+   ```bash
+   cd beauty-website
+   ```
 3. **Install the dependencies**:
-  ```bash 
-  npm install
-  ```
+   ```bash 
+   npm install
+   ```
 4. **Run the development server**:
    ```bash
    npm run dev
