@@ -2,6 +2,8 @@
 
 Welcome to the Beauty Website project! This is a modern web application designed for a beauty spa, showcasing various services, a blog, and a reservation system. The application is built using React and Vite, providing a smooth and responsive user experience.
 
+![Header_IMG](https://i.ibb.co/gRKdk82/Capture-d-cran-2024-11-09-01-22-52.png)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -39,11 +41,11 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/beauty-website.git
+   git clone https://github.com/yourusername/beauty.git
    ```
 2. **Navigate to the project directory:**:
    ```bash
-   cd beauty-website
+   cd beauty
    ```
 3. **Install the dependencies**:
    ```bash 
