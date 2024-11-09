@@ -46,7 +46,7 @@ const Reserve = () => {
                         </div>
                         <div className="inner">
                             <h2><img src={pt} alt="" /> CALL US :</h2>
-                            <p>(+00) 123 4568 009</p>
+                            <p>(+216) 43 513 874</p>
                         </div>
 
                     </div>
