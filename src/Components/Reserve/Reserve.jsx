@@ -42,7 +42,7 @@ const Reserve = () => {
                     <div className="boxtext">
                         <div className="inner">
                             <h2><img src={pt} alt="" /> MAIL US :</h2>
-                            <p>elriahi.mahdi@gmail.com/p>
+                            <p>elriahi.mahdi@gmail.com</p>
                         </div>
                         <div className="inner">
                             <h2><img src={pt} alt="" /> CALL US :</h2>
