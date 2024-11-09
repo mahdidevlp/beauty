@@ -46,8 +46,8 @@ const Footer = () => {
                         </h1>
                         <ul>
                             <li>Address: 24A Kingston St, Los Vegas NC 28202, USA.</li>
-                            <li>Mail: kevincornelius1905@gmail.com</li>
-                            <li>Phone: (+00) 123 4568 009</li>
+                            <li>Mail: elriahi.mahdi@gmail.com</li>
+                            <li>Phone: (+216) 43 513 874</li>
 
                         </ul>
                     </div>
